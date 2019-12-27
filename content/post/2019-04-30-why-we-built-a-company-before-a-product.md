@@ -5,7 +5,7 @@ hero: /images/hero-6.jpg
 excerpt: this is my excerpt
 timeToRead: 3
 authors:
-  - Thiago Costa
+  - Hugo
 
 ---
 
